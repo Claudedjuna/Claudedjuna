@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Claudedjuna
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning BASH scripting
-- 💞️ I’m looking to collaborate on.. any project that involves python, Css and JavaScript 
+- 💞️ I’m looking to collaborate on.. $(any project that involves python, Css and JavaScript )
 - 📫 you can reach me via abuleclaude@gmail.com
  
 <!---
