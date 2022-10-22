@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@Claudedjuna**
+-# 👋 **Hi, I’m @Claudedjuna**
 - 👀 I’m Looking for more experience with projects and interneship opportunities in been a better SE.
 - 🌱 I’m currently learning BASH scripting, python and C
 - 💞️ I’m looking to collaborate on.. any project that involves **python, Css and JavaScript** 
